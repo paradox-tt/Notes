@@ -32,9 +32,9 @@ The foregoing are my general thoughts after independent reviews and following up
 
 ### 1) Capital efficiency
 
-The team does a better job of reviewing spending proposals but pricing in many cases are higher than market rates, in some cases 3-4x.  
+The team takes a more collaborative approach to reviewing spending proposals than voting on tips. There are views that pricing in many cases are higher than market rates, in some cases 3-4x.  I am inclined to agree.
 
-Tips are rewarded liberally, the magnitude of each reward is smaller but the numbers tally to a large expenditure.  Tips based content comprises the majority of the budget.
+Tips are rewarded liberally, the magnitude of each reward is smaller but the numbers tally to a large expenditure.  Tips based content comprises about [66%](https://www.youtube.com/watch?v=BnpsO-Bfyko&t=412s&ab_channel=TheKusamarian) of Wagmedia's expenditure.
 
 ### 2) Quality of Content
 
