@@ -78,6 +78,10 @@ The team can then set these as `sub-bounties` with fixed rewards.  We don't need
 
 To cover unforeseen expenditure the team can implement a contingency and report on its use with their request for future funding.  
 
+There is the need for translated content but everything does not require translation.  There must be some guidelines as to what is relevant.  I don't consider that all machine translations are absolutely bad. There needs to be an evaluation of tolerances.
+
+The team should have an idea in advance of their translation goals and this would be used as the basis their proposal.
+
 Wagmedia's directors do a fair share of work.  I believe that the curator's fee should be used to cover their fees as an 'administrative expense'.
 
 I sincerely believe that Wagmedia's tipping system is the source of many of the concerns raised by the community.  The suggested idea of tiers may ultimately fail as some of the poor quality content was submitted by 'senior' members of the Wagmedia.
@@ -92,7 +96,7 @@ If someone does not have sufficient $CHRWNA but wants to fulfil a sub-bounty the
 
  The team should work on KPIs or statistics to reflect the output that they were able to attain per $ and the outreach content was able to achieve.  The team should also report on the number of complaints and provide reference to its details.  The community can use these statistics to vote for further funding of the bounty.  
 
- I believe if the aforementioned is implemented the bounty request can be significantly reduced, quality would be improved and criticism would decrease.
+ I believe if the aforementioned is implemented the bounty request can be significantly reduced, quality would be improved and criticism would decrease.  
 
  Best Regards,
  
