@@ -1,15 +1,17 @@
 Dear community,
 
-Having had the opportunity to review feedback from both sides I would like to provide some further feedback of my own.
+Having had the opportunity to review feedback from both sides I would like to provide some further feedback reflecting my personal views.
 
->The Wagmedia team embarked on an experiment to `Solve the Dotsama information distribution problem`.  The team planned to achieve this by providing incentives to individual participants, to create comprehensive, useful and inspiring content.
+>The Wagmedia team embarked on an experiment to Solve the Dotsama information distribution problem. The team plans to achieve this by providing incentives to individual participants, to create comprehensive, useful and inspiring content. 
+
+This is no small undertaking. Their initiative is to be praised and this is a prime example of the type of community-originated activity that the Treasury should seek to support.
 
 It is in my opinion that Wagmedia has done a good job of:
 
 1.  Assembling teams to produce community generated content
 2.  Developing an agile system of rewarding content
 
-This is weighed against concerns raised by some members of the community. These are, by title:
+My view is further influenced by both concerns and positive attributes raised by some members of the community. These are, by title below:
 
 1.  Capital efficiency
 2.  Quality of content
@@ -19,11 +21,14 @@ This is weighed against concerns raised by some members of the community. These 
 6.  Management of funds
 7.  Effects on the wider market
    
-At the onset of community discussion my initial concerns surrounded spending allocations.  The team requested 25,000 KSM /6 months, lending towards a 50,000 KSM annual budget.  Pro-rating 2022 inflation earnings, Kusama's treasury earns about 205,000 KSM with 41,600 KSM burnt annually.  Considering that there are other areas of expenditure, **a 50,000 KSM annual budget is not sustainable**.
+At the onset of community discussion, my initial concerns surrounded the sheer size of spending allocations. The team requested 25,000 KSM /6 months, implying a 50,000 KSM annual budget. Pro-rating 2022 inflation earnings, Kusama's treasury earns about 205,000 KSM with 41,600 KSM burnt annually. Considering that there are many other areas of treasury expenditure, **a 50,000 KSM annual budget for a single marketing initiative – albeit an important one - is not in my view sustainable as a percentage of Kusama’s overall treasury**.
 
- I believe there is room for a budget allocation for community generated content. Wagmedia is the only contender and the pioneer in the space.  I believe that there are inadequacies with Wagmedia's current model and I would like to speak to some of these and conclude with a suggestion.
+I believe there is should be a budget allocation for community generated content. Wagmedia is the only current contender and a pioneer in the space. If any group has earned the right to fulfill this important role, it is Wagmedia.
 
- The foregoing are my general thoughts after independent reviews and following up on community feedback.  I haven't reviewed every rewarded item but I am confident with my statements.
+I do believe, however,  that there are some shortcomings with Wagmedia's current proposal and I would like to address some of these and conclude with a suggestion.
+
+The foregoing are my general thoughts after independent reviews and following up on community feedback. I haven't reviewed every rewarded item, but I am confident with my statements.  Please also note that just because I highlight areas for improvement, it DOES NOT mean that I am anti-Wagmedia or against this proposal in principle.
+
 
 ### 1) Capital efficiency
 
@@ -33,40 +38,49 @@ Tips are rewarded liberally, the magnitude of each reward is smaller but the num
 
 ### 2) Quality of Content
 
-The quality of output from spending proposals are notably higher than those attained from tips.  As it relates to dubbing, I question the NEED of some items.  Is a 2017 video by Rob on interoperability required or is it now superseded?  
+The quality of output from spending proposals is notably higher than that attained from tips. As it relates to dubbing, for example, I question the NEED for some items that are rewarded with tips. Is a 2017 video by Rob Habermaier on interoperability required or is it now superseded? This is just one example.
 
-I agree with community sentiment that the quality of some tips leave a lot to be desired.
+I agree with community sentiment that the quality of some tips leave a lot to be desired and if the Wagmedia team is entrusted with treasury funds, then the team should also have the (sometimes difficult) task of saying “no” to tips for content below their standards.  
+
+How many tip proposals were rejected in Q1/Q2 for example?
+
 
 ### 3) Market Reach
 
-Content generated from spending proposals are noticeably higher than tips.  In the case of tips, some items were rewarded with < 10 views.  I agree that brands take time to build but keep the section above in mind.
+Content generated from spending proposals is noticeably higher in terms of market reach than the reach of content generated from tips. In the case of tips, some items were rewarded with < 10 views. I agree that marketing outreach takes time, but content without viewers – or a clear path to viewers over a relevant time horizon – is simply not valuable.
 
 ### 4) Centralization of authority
 
-Spending proposals appear to be reviewed by a team whereas tips are rewarded by **a single director** per genre.  Considering that there are no quotas involved, a single individual can have spend authority of significant amounts of funds.
+Spending proposals appear to be reviewed by a team whereas tips are rewarded by **a single director** per genre. Considering that there are no quotas or explicit standards involved, a single individual can have spend authority of significant amounts of funds. At least internally within Wagmedia, there should be accountability for the use/value of these tips – and then reporting to the Treasury of the conclusions.
 
 ### 5) Code of conduct
 
-A view was shared that recipients of bounty funds may be perceived as official voices of the network.  There was another concern raised that a funded series spoke negatively towards their project citing incorrect facts.
+A view was shared that recipients of bounty funds may be perceived as official voices of the network. There was another concern raised that a funded series spoke negatively towards their project citing incorrect facts.
 
-I believe that there should be:
+This is a difficult task for any media enterprise – especially one generating/curating content at the frequency of Wagmedia. While I believe that honest mistakes are understandable, I believe that there should be:
 
--   A documented disclaimer to disassociate the views expressed by the presenter with the relay-chain/parity/w3f
--   Code of conduct - There should be standards that prevent using derogatory slurs, inflammatory comments and reporting on nonfactual information. 
--   A mechanism for submitting complaints, a method for their evaluation and establishing penalties. 
+- A documented disclaimer to disassociate the views expressed by the presenter with the relay-chain/parity/w3f
+- Code of conduct - There should be standards that prevent using derogatory slurs, inflammatory comments and reporting on nonfactual information.
+- A mechanism for submitting complaints, a method for their evaluation and establishing penalties.
+- An internal process at Wagmedia for at least a self-attestation to the foregoing by a submitting content producer
 
-I believe these should be industry standards that one can copy/paste.  The goal is not to censor but to keep content to a professional level of reporting.
+I believe these should be industry standards that one can copy/paste. The goal is not to censor but to make every effort to keep content supported by Treasury to a professional level of reporting.
+
 
 ### 6) Management of funds
 
-- Funding disbursed from the treasury should be sent directly to contributors as KSM and not via De-Fi based chains.  If a user has a particular need for De-Fi they should satisfy this themselves.
-- The treasury should not responsible for paying any items that are deemed "pending".  KSM allocations should have ceased when bounty funding was depleted.
-- It would be good for the community to also see the payments received by person.  If this information is available please publish or direct me to it.
+- Funding disbursed from the treasury should be sent directly to contributors as KSM and not via De-Fi based chains. If a user has a particular need for De-Fi they should satisfy this themselves, and content proposals should not be repurposed into investment proposals
+- No expectation should be created that the treasury should be responsible for paying any items that are deemed "pending". As with any budget allocation, KSM allocations should have ceased when bounty funding was depleted unless and until another proposal is approved by Treasury.
+- It would be good for the community to also see the payments received broken down by individual. If this information is available, please publish or direct me to it.
+
 
 
 ### 7) Effects on the wider market
 
-Wagmedia's use of treasury funds to pay premium prices for work with lower barriers to entry has an impact on the wider market.  Content creators are now charging higher rates for their work and may not be encouraged to fill positions on dotjobs.com.  This deprives parachain teams of resources or in the least increases their operating costs.
+Wagmedia's use of treasury funds to pay premium prices for work with virtually no barriers to entry has an impact on the wider market. Content creators may now drive price inflation and they may not be encouraged to fill positions on dotjobs.com. This can have the exact opposite of the intended effect, depriving parachain teams of resources or at the very least creating an artificially inflated cost structure. 
+
+While treasury should absolutely be supporting content creators, it should not create 
+
 
 ### Suggestions
 
