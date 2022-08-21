@@ -61,7 +61,7 @@ Spending proposals appear to be reviewed by a team whereas tips are rewarded by 
 
 ### 5) Code of conduct
 
-A view was shared that recipients of bounty funds may be perceived as official voices of the network. There was another concern raised that a funded series spoke negatively towards their project citing incorrect facts.
+A view was shared that recipients of bounty funds may be perceived as official voices of the network. There was another concern raised that a funded series spoke negatively towards a parachain project citing incorrect facts.
 
 This is a difficult task for any media enterprise – especially one generating/curating content at the frequency of Wagmedia. While I believe that honest mistakes are understandable, I believe that there should be:
 
