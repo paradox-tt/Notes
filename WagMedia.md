@@ -38,7 +38,7 @@ Tips are rewarded liberally, the magnitude of each reward is smaller but the num
 
 It would be good to analyze empirical data on the topic which I believe is forthcoming.
 
-### 2) Quality of Content
+### 2) Quality of content
 
 The quality of review and guidance for spending proposals is notably higher than that exerted for tips. 
 
@@ -47,7 +47,7 @@ I agree with community sentiment that the quality of some tips leave a lot to be
 How many tip proposals were rejected in Q1/Q2 for example?
 
 
-### 3) Market Reach
+### 3) Market reach
 
 Content generated from spending proposals is noticeably higher in terms of quality but even so lacks market reach. This is an overall concern that I believe is in-part related to a deficient strategy to determine the right items to be funded. 
 
