@@ -19,7 +19,7 @@ This is weighed against concerns raised by some members of the community. These 
 6.  Management of funds
 7.  Effects on the wider market
    
-At the onset of community discussion my initial concerns surrounded spending allocations.  The team requested 25,000 KSM /6 months, lending towards a 50,000 KSM annual budget.  Pro-rating 2022 inflation earnings, Kusama's treasury earns about 205,000 KSM with 41,600 KSM burnt annually.  Considering that there are other areas of expenditure and token burns, **a 50,000 KSM annual budget is not sustainable**.
+At the onset of community discussion my initial concerns surrounded spending allocations.  The team requested 25,000 KSM /6 months, lending towards a 50,000 KSM annual budget.  Pro-rating 2022 inflation earnings, Kusama's treasury earns about 205,000 KSM with 41,600 KSM burnt annually.  Considering that there are other areas of expenditure, **a 50,000 KSM annual budget is not sustainable**.
 
  I believe there is room for a budget allocation for community generated content. Wagmedia is the only contender and the pioneer in the space.  I believe that there are inadequacies with Wagmedia's current model and I would like to speak to some of these and conclude with a suggestion.
 
