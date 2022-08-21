@@ -79,7 +79,7 @@ I believe these should be industry standards that one can copy/paste. The goal i
 
 Wagmedia's use of treasury funds to pay premium prices for work with virtually no barriers to entry has an impact on the wider market. Content creators may now drive price inflation and they may not be encouraged to fill positions on dotjobs.com. This can have the exact opposite of the intended effect, depriving parachain teams of resources or at the very least creating an artificially inflated cost structure. 
 
-While treasury should absolutely be supporting content creators, it should not create 
+While treasury should absolutely be supporting content creators, it should not create price inflation that is insupportable in the long term.
 
 
 ### Suggestions
