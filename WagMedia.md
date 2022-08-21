@@ -2,7 +2,7 @@ Dear community,
 
 Having had the opportunity to review feedback from both sides I would like to provide some further feedback of my own.
 
-In Wagmedia's own words, the Wagmedia team embarked on an experiment to `Solve the Dotsama information distribution problem`.  The team planned to achieve this by providing incentives to individual participants, to create comprehensive, useful and inspiring content.
+>The Wagmedia team embarked on an experiment to `Solve the Dotsama information distribution problem`.  The team planned to achieve this by providing incentives to individual participants, to create comprehensive, useful and inspiring content.
 
 It is in my opinion that Wagmedia has done a good job of:
 
