@@ -11,7 +11,7 @@ It is in my opinion that Wagmedia has done a good job of:
 1.  Assembling teams to produce community generated content
 2.  Developing an agile system of rewarding content
 
-My view is further influenced by both concerns and positive attributes raised by some members of the community. These are, by title below:
+My view is further influenced by both concerns and **positive attributes** raised by some members of the community. These are, by title below:
 
 1.  Capital efficiency
 2.  Quality of content
